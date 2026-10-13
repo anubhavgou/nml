@@ -21,7 +21,7 @@ export const team = [
   { name: 'Aayush Tiwari', role: 'Head of Data Engineering', color: '#4aa8ff' },
   { name: 'Shashikant Patel', role: 'Groundwater Scientist', color: '#ffb454' },
   { name: 'Anubhav Gour', role: 'Platform and UX Lead', color: '#19d3c5' },
-   { name: 'Aruhi', role: 'Platform and UX Lead', color: '#19d3c5' },
+  
 ];
 
 export const news = [
