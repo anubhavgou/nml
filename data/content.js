@@ -20,8 +20,7 @@ export const team = [
   { name: 'Rahul Ramchandran', role: 'Founder and Lead Hydrologist', color: '#19d3c5' },
   { name: 'Aayush Tiwari', role: 'Head of Data Engineering', color: '#4aa8ff' },
   { name: 'Shashikant Patel', role: 'Groundwater Scientist', color: '#ffb454' },
-  { name: 'Anubhav Gour', role: 'Platform and UX Lead', color: '#19d3c5' },
-  
+  { name: 'Anubhav Go', role: 'Platform and UX Lead', color: '#19d3c5' },
 ];
 
 export const news = [
